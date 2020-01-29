@@ -22,7 +22,7 @@ When is the busiest times of the year to visit Seattle?
 How much do you need to budget for an airbnb stay in Seattle?
 
 Additional visualization and analysis can be found here:
-https://medium.com/p/773a73e832c2/edit
+https://medium.com/@wenqingfly/best-time-to-visit-seattle-773a73e832c2
 
 Acknowledgement
 
